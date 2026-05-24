@@ -1,14 +1,14 @@
-# Claude-NWS Protocol Bridge
+# Context Weather
 
 A Model Context Protocol (MCP) server that integrates the US National Weather Service API with Claude Desktop, providing real-time weather data and forecasts directly within your Claude conversations.
 
 ## Features
 
-- 🌤️ Real-time weather conditions and forecasts
-- 🗺️ Location-based weather queries using coordinates or place names
-- ⚡ Seamless integration with Claude Desktop via MCP
-- 🔄 Live data from the official US National Weather Service API
-- 📊 Detailed weather metrics including temperature, humidity, wind, and precipitation
+- Real-time weather conditions and forecasts
+- Location-based weather queries using coordinates or place names
+- Seamless integration with Claude Desktop via MCP
+- Live data from the official US National Weather Service API
+- Detailed weather metrics including temperature, humidity, wind, and precipitation
 
 ## Prerequisites
 
